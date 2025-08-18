@@ -1,0 +1,20 @@
+.news-grid{
+    flex: 1;
+}
+
+.news-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 32px;
+    padding: 16px;
+}
+
+.news-header span {
+    font-size: 12px;
+    color: #808080;
+}
+
+.news-cards {
+    display: grid;
+}
